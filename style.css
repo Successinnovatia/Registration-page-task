@@ -40,8 +40,7 @@ main{
 }
 
 .small-box{
-    background-color:  hsl(248, 32%, 49%)
-    ;
+    background-color:  hsl(248, 32%, 49%);
     color: white;
     margin-bottom: 1em;
     height: 40px;
